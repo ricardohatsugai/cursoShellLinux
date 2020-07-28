@@ -14,3 +14,18 @@ echo "$TOTAL"
 SAIDA_CAT=$(cat /etc/passwd | grep ricardo)
 
 echo "$SAIDA_CAT"
+
+echo "----------------------------------------------"
+
+echo "Parametro 1: $1"
+echo "Parametro 2: $2"
+
+echo "Todos os parametros: $*"
+
+echo "Quantos parametros?: $#"
+
+echo "Saída do último comando: $?"
+
+echo "pid: $$"
+
+echo "Nome do Script:  $0"
