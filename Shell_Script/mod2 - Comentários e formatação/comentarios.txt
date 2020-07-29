@@ -1,0 +1,9 @@
+Trindade, 28 de Julho de 2020.
+
+	Comentários
+
+  É importante fazer comentários relevantes para que possa ser 
+possível fazer manutenções futuramente.
+Exemplo de comentário:
+
+# Lynx instalado?
