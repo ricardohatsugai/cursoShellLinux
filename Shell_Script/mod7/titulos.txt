@@ -1,30 +1,30 @@
-How to Install and Configure VNC on Debian 9
-How to validate ISO 8601 dates without regex
-What is agile?
-Disable or Enable SSH Root Login and Secure SSH Access in CentOS 7
-Linux strace Command Tutorial for Beginners (8 Examples)
-14 common network ports you should know
-The October 2018 Issue of the PCLinuxOS Magazine
-How to Change/Spoof a MAC Address in Ubuntu
-How To Use Steam Play to Play Windows Games on Linux
-Functional programming in Python: Immutable data structures
-Linux market share on Steam now at a 16 month high after a rounding error was fixed
-Microsoft's Patent Trolls Are Alive and Well, Seeding Destruction Among Microsoft's Competition
-Major Debian GNU/Linux 9 "Stretch" Linux Kernel Patch Fixes 18 Security Flaws
-Installing Php 7.2 On Debian 8 Jessie And Debian 9 Stretch 2018
-AT&T releases white box spec for its Linux-based 5G routers
-What high-top sneakers and motion sickness can teach us about designing for VR
-What's Your System's Uptime?
-How to install Yarn on CentOS 7
-Android Security Patch for October, Google Pixel Slate, Skype on Debian Vulnerability, PyTorch Beta 1.0 Released and XCOM 2: War of the Chosen - Tactical Legacy Pack Coming Soon to Linux
-IBM mainframe containers grow more secure
-Snapdragon 820E mini-PC supports AI on the retail edge
-Everything Is A File In Linux - Part 2
-Tips for listing files with ls at the Linux command line
-Complete monitoring solution : Install OMD (Open Monitoring Distribution)
-How to Set up RabbitMQ Cluster on Ubuntu 18.04 LTS
-Episode 1: Digital Privacy
-The beauty of open source hardware
-Top 7 commands for Linux Network Traffic Monitoring
-How to Customize Themes on Ubuntu Desktop with Gnome Tweaks
-Introducing Swift on Fedora
+10 Good Open Source Speech Recognition Systems 2020 
+Exclusive: Serpent OS to Offer Day One Support for Pinebook Pro, Ship with KDE Plasma
+How to Add and Remove Users on Ubuntu 20.04
+Armbian 20.08 Released with Initial Support for Rock Pi E, Odroid N2+ and Helios64 Support
+Moreutils - A Collection Of More Useful Unix Utilities
+Despite Efforts, Traditional Package Managers Still Dominate Linux Desktop 
+Linux List Disks And Drives Commands
+How to Install Let’s Encrypt on Ubuntu 20.04 with Apache
+Contributing to Open Source Projects without Coding Knowledge
+3 reasons small businesses choose open source tools for remote employees
+Chromium devs want the browser to talk to devices, computers directly via TCP, UDP. Obviously, nothing can't go wrong
+Panfrost performance counters with Perfetto
+IMX8M Pico-ITX board features Raspberry Pi expansion
+Linux Candy: pipes.sh – animated pipes terminal screensaver
+3 ways a legal team can enable open source
+Container video series: Rootless containers, process separation, and OpenSCAP
+How to Check for Open Ports on Debian 10
+Configure Fedora to practice and compose music
+How To Install Python Keras On Ubuntu
+How to Install Lighttpd with PHP-FPM and MariaDB on CentOS 8
+How To Find Exact Installation Date And Time Of Your Linux OS
+Chinese State media uses new release of local Linux to troll Trump
+ How to Move from Windows to Linux
+Nvidia's GeForce Now is now available for Chromebooks
+apt vs apt-get - Advanced Package Tool
+500 Internal Server Error
+Samsung Galaxy Watch 3: Finally, a great smartwatch from someone other than Apple
+Sysadmin university: How to write a README file
+Standardizing on Kubernetes, and more industry trends
+9 open source leaders I enjoy following on Twitter

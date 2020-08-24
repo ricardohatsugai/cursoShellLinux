@@ -1,0 +1,9 @@
+Seção 8: Arquivos de Configuração
+
+34. Introdução aos Arquivos de Configuração.
+
+ Sempre definir um apdrão para extrair as informações
+
+ Comando eval, executa uma próxima linha de comando como comando a ser executado.
+
+
