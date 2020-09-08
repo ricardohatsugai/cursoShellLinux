@@ -1,0 +1,8 @@
+# Banco de Dados de usuário
+
+
+1:mateus:mateus2@gmail.com
+2:gabriel:gabriel2@gmail.com
+2:ricardo:rahtsugai@gmail.com
+3:Enzo:enzo@gmail.com
+4:Laila:laila@gail.com

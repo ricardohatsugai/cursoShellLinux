@@ -1,0 +1,38 @@
+Trindade, 07 de Setembro de 2020.
+
+    Boas práticas
+
+# Portabilidade: #!/usr/bin/env bash
+
+  Evitar quebra de Strings
+$ VARIAVEL_TESTE="Ricardo Hatsugai"
+echo "$VARIAVEL_TESTE"
+
+  Se for somente uma condicional, fazer do modo curto
+[ -z "$VARIAVEL_TESTE" ] && {
+  echo "Vazio."
+  echo "aaaa"
+}
+
+  Executar comandos com $() porque é mais fácil de identificar o que está sendo feito.
+  Alguém pode confindir com aspas simples se usar ''.
+Exemplo:
+  echo $(which python) # Sim
+  echo 'which python'  # Não
+ 
+
+  Usar contrabarra para quebrar comandos grandes
+  dialog --stdout \
+  	--menu "Gerenciamento de Usuários" \
+	0 0 0 \
+	lista "Lista todos os usuários do sistema" \
+	adiciona "Adiciona um novo usuários" \
+	remove "Remove um usuário"
+
+
+  Evitar o máximo o uso de PIPES
+  cat /etc/passwd | grep ricardo # não
+  grep ricardo /etc/passwd 	 # sim
+
+
+  :
